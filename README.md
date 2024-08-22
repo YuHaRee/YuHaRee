@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=YuHu's%20GitHub&fontSize=90" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=250&section=header&text=YuHu's%20GitHub&fontSize=90" alt="header">
 </div>
 
 
