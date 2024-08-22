@@ -78,9 +78,10 @@
 ---
 <br>
 
-![YuHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=radical)
+![YuHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=merko)
+
 
 <br><br>
 
