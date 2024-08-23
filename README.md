@@ -87,4 +87,4 @@
 
 ## 💻 DEV's log 💻
 [![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=flat&logo=portfolio&logoColor=white)](http://paekrng3.co.kr)
-([![Wiki Badge](https://img.shields.io/badge/label-message-color)](https://github.com/YuHaRee/Camp_us/wiki)
+[![Wiki - Home](https://img.shields.io/badge/Wiki-Home-blue)](https://github.com/YuHaRee/Camp_us/wiki)
