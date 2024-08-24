@@ -28,12 +28,14 @@
 ### Storage
 ![AWS S3 Badge](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
-### Servers
+### Compute Engine
 ![AWS EC2 Badge](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![Apache Tomcat Badge](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
-![AWS ELB Badge](https://img.shields.io/badge/-AWS%20ELB-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS Lambda Badge](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![Apache Tomcat Badge](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Load Balancers
+![AWS ELB Badge](https://img.shields.io/badge/-AWS%20ELB-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ### Development Tools
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
