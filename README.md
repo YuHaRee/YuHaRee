@@ -45,7 +45,7 @@
 ![Eclipse Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
 
 ### Framework
-![Spring Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ### Frontend
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
