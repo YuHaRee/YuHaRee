@@ -75,12 +75,15 @@
 
 ---
 <br>
-<a href="https://github.com/YuHaRee">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight" alt="YuHaRee's GitHub stats" />
-</a>
-<a href="https://github.com/YuHaRee">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/YuHaRee">
+    <img src="https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight" alt="YuHaRee's GitHub stats" style="height:180px"/>
+  </a>
+  <a href="https://github.com/YuHaRee">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight" style="height:180px"/>
+  </a>
+</p>
+
 <!-- ![YuHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight) -->
