@@ -77,10 +77,10 @@
 <br>
 <p align="center">
   <a href="https://github.com/YuHaRee">
-    <img src="https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight" alt="YuHaRee's GitHub stats" style="height:180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight" alt="YuHaRee's GitHub stats" style="height:150px"/>
   </a>
   <a href="https://github.com/YuHaRee">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight" style="height:180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight" style="height:150px"/>
   </a>
 </p>
 
