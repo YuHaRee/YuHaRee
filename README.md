@@ -5,11 +5,6 @@
 </div>
 
 
-
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=nord&hide_border=true" /></a>
-
-
 ## 📞 Contact 📞
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:paekrng7@naver.com)
 
@@ -69,6 +64,7 @@
 
 ### Monitoring and APM
 ![Elastic APM Badge](https://img.shields.io/badge/-Elastic%20APM-005571?style=flat&logo=elastic&logoColor=white)
+
 
 <!-- 
 ### Design Tools
