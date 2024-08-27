@@ -65,11 +65,10 @@
 ![Elastic APM Badge](https://img.shields.io/badge/-Elastic%20APM-005571?style=flat&logo=elastic&logoColor=white)
 
 
-<!-- 
 ### Design Tools
 ![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
--->
+
 
 
 ---
