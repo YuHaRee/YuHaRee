@@ -37,6 +37,7 @@
 ![DBeaver Badge](https://img.shields.io/badge/-DBeaver-1D2C4C?style=flat&logo=dbeaver&logoColor=white)
 ![SQL Developer Badge](https://img.shields.io/badge/-SQL%20Developer-F80000?style=flat&logo=oracle&logoColor=white)
 ![Eclipse Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![ERD Cloud Badge](https://img.shields.io/badge/-ERD%20Cloud-FF4500?style=flat&logo=cloud&logoColor=white)
 
 ### Framework
 ![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
