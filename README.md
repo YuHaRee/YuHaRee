@@ -71,7 +71,6 @@
 ![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
-
 ---
 
 <br>
@@ -85,7 +84,7 @@
 </p>
 
 
-<!-- ![YuHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight) -->
+![YuHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight) -->
 
 
