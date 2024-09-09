@@ -14,6 +14,7 @@
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+
 ### Database
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
