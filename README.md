@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YuHu's%20GitHub&fontSize=90" alt="header">
 </div>
 
+<!--
 ## 📞 Contact 📞
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:paekrng7@naver.com)
 
@@ -86,9 +87,11 @@
 <!-- ![YuHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHaRee&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHaRee&layout=compact&theme=tokyonight) -->
 
-
+<!--
 <br><br><br>
 
 ## 💻 DEV's log 💻
 [![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=flat&logo=portfolio&logoColor=white)](http://paekrng3.co.kr)
 [![Wiki - Home](https://img.shields.io/badge/Wiki-Home-blue)](https://github.com/YuHaRee/Camp_us/wiki)
+
+-->
