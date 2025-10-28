@@ -1,14 +1,15 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YuHaRee&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Yuhu-Studio&color=brightgreen&style=flat-square)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YuHu's%20GitHub&fontSize=90" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yuhu%20Studio's%20GitHub&fontSize=90" alt="header">
 </div>
 
 ## 📞 Contact 📞
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:paekrng7@naver.com)
 
 ## 🌱 Profile 🌱
-[![About](https://img.shields.io/badge/About%20Me-FF5733?style=for-the-badge&logo=readme&logoColor=white)](https://yuharee.github.io/)
+[![About](https://img.shields.io/badge/About%20Me-FF5733?style=for-the-badge&logo=readme&logoColor=white)](https://yuhu-studio.github.io/)
+
 
 <!--
 ## 🛠️ Once I've used 🛠️
